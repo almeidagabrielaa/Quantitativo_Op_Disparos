@@ -1,10 +1,5 @@
 # Projeto de ETL e Análise de Dados com Python
 
-Este projeto tem como objetivo realizar o processo de ETL (Extração, Transformação e Carregamento) de dados a partir de uma planilha, armazená-los num banco de dados SQLite, e gerar relatórios e visualizações com base nesses dados.
-
-
-# Projeto de ETL e Análise de Dados com Python
-
 Este projeto realiza o ETL (Extração, Transformação e Carregamento) de dados a partir de planilhas, armazena-os em um banco de dados SQLite, e gera relatórios e visualizações com base nesses dados.
 
 ## Funcionalidades
